@@ -23,7 +23,7 @@ const Hero = () => {
 
   return (
     <section id="home" className="min-h-screen pt-28 flex items-center justify-center relative overflow-hidden">
-      <div className="text-center flex flex-col md:flex-row gap-4 z-10 items-center mx-8">
+      <div className="text-center flex flex-col gap-4 z-10 items-center mx-8">
 
         <div>
 

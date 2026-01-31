@@ -32,11 +32,9 @@ const Footer = () => {
                   </motion.a>
               ))}
           </div>
-          <div className="container mx-auto flex justify-between items-center">
+          <div className="container mx-auto flex justify-center items-center">
               <div className="text-sm text-muted-foreground">© {new Date().getFullYear()} Tycoon.Ltd All rights reserved.</div>
-              <div>
-                  <a href="/policy" className="text-sm text-muted-foreground">Explanation based on the Specified Commercial Transactions Act</a>
-              </div>
+              
           </div>
       </footer>
   )

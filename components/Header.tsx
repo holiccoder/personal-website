@@ -44,8 +44,6 @@ const Header = () => {
           {isOpen ? <HiOutlineX size={24} /> : <HiOutlineMenu size={24} />}
         </button>
 
-        { theme === 'dark' ? <Image src={WebsiteLightLogo} alt={'logo'} width={106} className={'mr-6'} />: <Image src={WebsiteLogo} alt={'logo'} width={106} className={'mr-6'} />}
-
         <div className="hidden md:flex flex-1 justify-center">
 
           <nav className="flex items-center gap-8 text-sm md:text-base">

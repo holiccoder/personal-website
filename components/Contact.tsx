@@ -63,7 +63,7 @@ const Contact = () => {
           <div className="mb-4">
 
             <div className="mb-4">
-              Email: <a href="mailto:support@tycoon.pro">support@tycoon.pro</a>
+              Email: <a href="mailto:support@tycoon.pro">contact@sachu.techu</a>
             </div>
             <label htmlFor="name" className="block text-sm font-medium mb-1">
               {t("contact.contact_form.name")}

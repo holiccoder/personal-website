@@ -2,8 +2,8 @@
 
 import { motion } from "framer-motion"
 import { useTheme } from "next-themes"
-import { FaPython, FaHtml5, FaCss3Alt, FaWordpress, FaShopify, FaReact } from "react-icons/fa"
-import { SiTypescript, SiNextdotjs, SiLaravel, SiMysql, SiGraphql, SiTailwindcss } from "react-icons/si"
+import { FaPython, FaHtml5, FaCss3Alt, FaWordpress, FaShopify, FaReact, FaMagento } from "react-icons/fa"
+import { SiTypescript, SiNextdotjs, SiLaravel, SiMysql, SiGraphql, SiTailwindcss, SiWoocommerce } from "react-icons/si"
 import { RiJavascriptFill, RiPhpFill, RiVuejsFill } from "react-icons/ri";
 import { useState, useEffect } from "react";
 
@@ -23,6 +23,8 @@ const techStack = [
   { name: "Vue.js", icon: RiVuejsFill, color: "#4FC08D" },
   { name: "React", icon: FaReact, color: "#61DAFB" },
   { name: "GraphQL", icon: SiGraphql, color: "#E10098" },
+   { name: "WooCommerce", icon: SiWoocommerce, color: "#96588A" },
+   { name: "Magento", icon: FaMagento, color: "#EE672F" },
 ]
 
 const TechStack = () => {
