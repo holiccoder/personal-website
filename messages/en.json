@@ -20,7 +20,6 @@
          "title": "About Us",
          "description": "<p className=\"text-lg text-gray-700 dark:text-gray-300 mb-4\">\n  Hey there! I&apos;m <strong>Sachu</strong>, a self taught full stack engineer. I specialize in Machine Learning, AI Agents, LLMs, Python, and MLOps infrastructure.🚀\n</p>\n<p className=\"text-lg text-gray-700 dark:text-gray-300 mb-4\">\n  My journey into AI started in 2020 when I hit rock bottom—failing my first-year bachelor&apos;s exam with just 8/50 marks. Instead of giving up, I turned to YouTube and blogs, diving deep into ML. After facing 12 rejections, I finally landed my first job, and since then, there&apos;s been no looking back.\n</p>\n<p className=\"text-lg text-gray-700 dark:text-gray-300 mb-4\">\n  Today, I help startups bring AI ideas to life. I have experience in writing tech blogs, consulting on AI projects, freelancing in ML, and now even building websites for businesses to scale their online presence. I thrive on problem-solving and innovation.\n</p>\n<p className=\"text-lg text-gray-700 dark:text-gray-300\">\n  Beyond AI, you&apos;ll find me hiking, powerlifting, and diving into books. I&apos;m passionate about technology, startups, and making a real impact in the AI space. Let&apos;s connect and build something amazing! ✨\n</p>"
       },
-
       "projects": {
          "title": "Projects",
          "projects": [
