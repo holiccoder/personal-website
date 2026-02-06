@@ -2,7 +2,7 @@
   "home": {
     "navigation": {"home":"ホーム", "projects": "プロジェクト",  "services": "サービス", "tech": "技術スタック", "contact": "お問い合わせ"},
     "hero": {
-      "title": "<p>私たちTYCOONは、お客様のアプリケーション開発ニーズに</p><p class=\"mt-6\">真摯に向き合うプロフェッショナル集団です。</p>",
+      "title": "<p>私たちtycoonは、お客様のウェブサイト制作やアプリ開発におけるあらゆるご要望を、妥協なく、誠意を込めて形にするプロフェッショナル集団です。</p>",
       "initial": "私たちのサービス",
       "phrases": [
         "WordPress (WooCommerce) テーマ開発",
